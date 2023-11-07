@@ -106,19 +106,19 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Desenvolvedor React.js",
+    title: "Estagiario Fullstack",
     company_name: "Renault",
     icon: starbucks,
     iconBg: "#383E56",
     date: "jan 2023 - Atual",
     points: [
-      "Desenvolvimento e manutenção de aplicações web usando React.js e outras tecnologias relacionadas.",
+      " Concebi e desenvolvi, tanto o frontend quanto o backend, uma rede social completa para aprimorar a comunicação entre os colaboradores, promovendo interatividade e conexão entre a equipe",
 
-      "Colaborar com equipes multifuncionais, incluindo designers, gerentes de produto e outros desenvolvedores para criar produtos de alta qualidade.",
+      "Engenhei softwares sob medida que aprimoraram o controle, visualização e gerenciamento em tempo real de diversos parâmetros de produção usando a eficiência do Python.",
 
-      "Implementando design responsivo e garantindo compatibilidade entre navegadores.",
+      "projetado e implementei um software de rastreamento de ocorrências para monitorar quebras e falhas de produção, melhorando a eficiência e minimizando paralisações.",
 
-      "Participar de revisões de código e fornecer feedback construtivo a outros desenvolvedores.",
+      "Colaborei ativamente no desenvolvimento de diversas aplicações web que forneceram uma representação visual detalhada de diversos parâmetros de produção, utilizando tecnologias como React e MongoDB, contribuindo para a melhoria geral dos processos de produção",
     ],
   },
   {
